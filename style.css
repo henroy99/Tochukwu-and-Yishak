@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgb(231, 231, 231);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-div {
+  background-color: white;
+}
+#title {
+  margin: 40px 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+#img-caption {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.headline {
+  margin: 50px;
+  font-size: 23px;
+}
+ul {
+  padding: 0 500px;
+  text-align: start;
+  line-height: 1.5;
+}
+li {
+  font-size: 17px;
+}
